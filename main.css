@@ -1,0 +1,22 @@
+body {
+    color: #3c3e40;
+    background-image: url('https://resizer.mail.ru/p/47d0a4e4-dda0-5e9d-9925-0eb95781854e/AQAKcgBNeCxos3R5GwRmyTJsyJm2mhFEzbIm3rABnQzsxgkvkWx3kbDgdgy0aeYVb8wT5UcmzH6gz0iJ_FVc_e3CN-E.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+
+    .bsanya {
+        width: 100%;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+    }
+
+    b{
+        font-size: 8vw;
+        color: aliceblue;
+        text-shadow: 0 -0.1rem 0.4rem white,
+            0 -0.2rem 1rem yellow,0 -1rem 2rem orangered,
+            0 -1.8rem 4rem red;
+    }
